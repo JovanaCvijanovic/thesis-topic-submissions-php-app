@@ -26,3 +26,8 @@ Ova aplikacija demonstrira razvoj višeslojne veb aplikacije sa različitim priv
 ## Tehnologije
 
 Razvijena je korišćenjem **PHP**, **HTML**, **CSS**, **JavaScript** i **MariaDB** baze podataka unutar **XAMPP** platforme u **Visual Studio Code** okruženju.
+
+## Preuzimanje projekta
+
+Ceо projekat je dostupan kao **ZIP fajl** za preuzimanje i pregled.  
+Možete ga preuzeti klikom na dugme **Code → Download ZIP** u gornjem desnom uglu repozitorijuma.  
